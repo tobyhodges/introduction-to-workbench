@@ -5,6 +5,7 @@
 "index.md" "4abce329b2f32d86fe110f4eb181eb71" "site/built/index.md" "2022-06-14"
 "links.md" "8184cf4149eafbf03ce8da8ff0778c14" "site/built/links.md" "2022-06-14"
 "episodes/01-introduction.md" "8ec4f33d3988e197c5759631846f7e4f" "site/built/01-introduction.md" "2022-06-14"
+"episodes/02-using-the-workbench.md" "3d11f7a47b10b1d07875632fba31fca3" "site/built/02-using-the-workbench.md" "2022-06-14"
 "instructors/instructor-notes.md" "60b93493cf1da06dfd63255d73854461" "site/built/instructor-notes.md" "2022-06-14"
 "learners/setup.md" "f81f62ee0b5d70f52b205ab65a5d0bbf" "site/built/setup.md" "2022-06-14"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2022-06-14"
